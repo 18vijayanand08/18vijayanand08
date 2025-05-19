@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Vijay Anand V</h1>
-<h3 align="center">📘 Pursuing B.E. at Panimalar Engineering College</h3>
+<h3 align="center">📘 Pursuing B.Tech at Panimalar Engineering College</h3>
 
 <p align="center">
   🤖 Exploring AI/ML &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Preparing for Placements &nbsp;&nbsp;|&nbsp;&nbsp; 💬 Tech Enthusiast  
