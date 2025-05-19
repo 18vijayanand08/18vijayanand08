@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📫 Reach me on <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/vijay-anand-v-99ab772a5/)" target="_blank">
+  📫 Reach me on <a href="www.linkedin.com/in/vijay-anand-v-99ab772a5" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
