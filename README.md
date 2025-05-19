@@ -12,7 +12,9 @@
 
 
   <br/>
-  😄 Pronouns: <strong>Techie</strong>
+  <strong>💬 Code is my second language
+
+</strong>
 </p>
 
 ---
